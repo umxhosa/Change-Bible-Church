@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'hindbold';
+    src: url('hind-bold-webfont.eot');
+    src: url('hind-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hind-bold-webfont.woff2') format('woff2'),
+         url('hind-bold-webfont.woff') format('woff'),
+         url('hind-bold-webfont.ttf') format('truetype'),
+         url('hind-bold-webfont.svg#hindbold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+.hind-bold {
+    font-family: "Hind", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
